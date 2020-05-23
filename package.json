@@ -26,8 +26,7 @@
   "scripts": {
     "prepublish": "make js",
     "postpublish": "make clean",
-    "test": "make test",
-    "postinstall": "make js"
+    "test": "make test"
   },
   "engine": [
     "node >= v0.6.0"
