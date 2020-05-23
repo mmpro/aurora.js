@@ -9,4 +9,3 @@ Thumbs.db
 node_modules
 /build/
 !src/devices/resampler.js
-src/**/**.js
